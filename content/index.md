@@ -1,38 +1,9 @@
 ---
-title: Home
+title: Dihei
 layout: page
 permalink: /
+sidebar: true
+sidebar_icon: fa-solid fa-house
 toc: true
 ---
-
-# Welcome to Basis WS 1 26
-
-This site is managed by Decap CMS.
-
-## Getting Started
-
-Use Decap CMS to create pages and posts.
-
-### Creating Your First Page
-
-Navigate to the Decap CMS interface to begin creating content.
-
-### Editing Content
-
-All pages can be edited through the content management system.
-
-## Features
-
-This site includes several features:
-
-### Table of Contents
-
-Automatically generated from your page headings.
-
-### Responsive Design
-
-Works on all devices and screen sizes.
-
-## Next Steps
-
-Edit this page in Decap CMS to customize your content.
+# Wilkommä im Basiskurs Wolfstufe 1 2026
