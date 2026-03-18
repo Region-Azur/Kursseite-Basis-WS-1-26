@@ -7,3 +7,7 @@ sidebar_icon: fa-solid fa-house
 toc: true
 ---
 # Wilkommä im Basiskurs Wolfstufe 1 2026
+
+
+
+![](/static/uploads/download.jpg)
